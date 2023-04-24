@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+header {
+    background-color: rgb(0, 0, 0);
+    min-height: 80px;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-bottom: 0px;
+    margin: -8px;
+}
+
+nav {
+    padding: 0px;
+    padding-top: 15px;
+}
+
+nav > a {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+
+
+/*
+
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    padding-bottom: 40px;
+    margin: -8px;
+    font-weight: bold;
+
+
+
+}
+
+
+*/ 
+
+
+
+h1 {
+    text-align: center;
+}
+
+section#Skills {
+    background-color: rgb(12, 108, 242);
+    font-family: Arial, Helvetica, sans-serif;
+    height: 529px;
+    margin: -8px;
+    padding: 1px;
+}
+
+section#Profile {
+    background-color: rgb(100, 12, 233);
+    font-family: Arial, Helvetica, sans-serif;
+    height: 677px;
+    margin: -8px;
+    padding: 1px;
+}
+
+img {
+    margin: 50px;
+    margin-right: 30px;
+
+        
+}
+
+section#Projects {
+    background-color: rgb(40, 12, 242);
+    font-family: Arial, Helvetica, sans-serif;
+    height: 677px;
+    margin: -8px;
+    padding: 1px;
+}
+
+section#Language {
+    background-color: rgb(3, 169, 244);
+    font-family: Arial, Helvetica, sans-serif;
+    height: 529px;
+    margin: -8px;
+    padding: 1px;
+}
+
+
